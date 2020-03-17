@@ -1,0 +1,16 @@
+/* -------------------------- */
+/* MORALITY CORE (PURPLE) */
+/* -------------------------- */
+
+{ "animation": {   "frametime": 4,  "frames": [
+
+/* GLOWS THEN FADES*/
+      0,
+      1,
+      2,
+      {"index": 3, "time": 3 },
+      2,
+      1
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+﻿[C]§f===============
+
+[C]§eMinecraft is property of Mojang and Microsoft, originally created by Notch. Portal is property of Aperture Science and Valve Corporation. Respective credit is applied as such.
+
+[C]§f===============
+
+[C]§eTexture Pack Credits
+
+§7Alpha Texture Pack "Portal meets Minecraft" 2010
+§f			Cosine
+
+§7Beta Texture Pack "Precisely Portal and Modified Portal" Feb 2011
+§f			Carlotta4th
+
+§7Combined Resource Pack "Precisely Portal" May 2016
+§f			Carlotta4th
+
+[C]§f===============
+
+§7 Credit for Specific Animations/textures:
+§f			Restcoser: Lava "goo" animation
+§f			Sayomi_Inoue: Command Block (orange version)
+§f			Carlotta4th: All other textures
+
+
+
+
+[C]§eThis was a triumph.
